@@ -16,7 +16,7 @@ function validate() {
         return false;
     }
 
-    alert("Đăng ký thành công!")
+    alert("Đăng ký thành công!");
 
     return true;
 }

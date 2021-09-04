@@ -1,24 +1,27 @@
 body {
-  padding-top:15px;
-  background:url("../img/hotel.jpg") no-repeat center center fixed;
+  padding-top: 15px;
+  background: url("../img/hotel.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
 a {
   color: #00bd00;
 }
+
 * {
   box-sizing: border-box;
-  
 }
+
 .register {
   width: 400px;
   padding: 16px;
   margin: 0 auto;
   background-color: rgba(255, 255, 255, 0.651);
 }
+
 input[type="text"],
 input[type="password"] {
   width: 100%;
@@ -28,15 +31,18 @@ input[type="password"] {
   border: none;
   background: #f1f1f1;
 }
+
 input[type="text"]:focus,
 input[type="password"]:focus {
   background-color: #ddd;
   outline: none;
 }
+
 hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
 }
+
 .submit {
   background-color: #0900bd;
   color: white;
@@ -47,9 +53,11 @@ hr {
   width: 100%;
   opacity: 0.9;
 }
+
 .submit:hover {
   opacity: 1;
 }
+
 .login {
   background-color: #ffffff;
   text-align: center;
