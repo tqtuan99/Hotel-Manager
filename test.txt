@@ -1,2 +1,1 @@
-test branch.
-Commit by branch master .
+Test branch master
