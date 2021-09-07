@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Test branch 
 
 update branch Long.
+=======
+
+update branch Khanh.
+>>>>>>> khanh
